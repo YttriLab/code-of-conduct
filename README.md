@@ -9,7 +9,7 @@ Harassment includes offensive verbal comments related to gender, gender identity
 
 Members asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact administrators immediately. For official concerns, please see the Carnegie Mellon University ombuds office.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact administrators immediately. If administrators are the cause of your concern, Veronica Hinman (veronica at cmu.edu) is a good informal point of contact. For official concerns, please see the Carnegie Mellon University ombuds office.
 
 We expect members to follow these guidelines at any lab-related event.
 
